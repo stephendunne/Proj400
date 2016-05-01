@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{681F3C11-F556-D8A0-2BB4-43BEC3811BCC}") = "Cyber-RTS Mobile", "Assembly-CSharp.csproj", "{422376C7-6544-9184-9120-C07FD1922E9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{422376C7-6544-9184-9120-C07FD1922E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{422376C7-6544-9184-9120-C07FD1922E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{422376C7-6544-9184-9120-C07FD1922E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{422376C7-6544-9184-9120-C07FD1922E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal

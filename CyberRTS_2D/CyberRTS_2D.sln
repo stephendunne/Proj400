@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{92823016-8F5E-747C-CB20-5A6123D0E64A}") = "CyberRTS_2D", "Assembly-CSharp-firstpass.csproj", "{AA6C046D-2A87-F79A-0C9D-761E13041BBD}"
+EndProject
+Project("{92823016-8F5E-747C-CB20-5A6123D0E64A}") = "CyberRTS_2D", "Assembly-CSharp.csproj", "{59AA0D83-5C37-8E8B-CF73-C71A86E9D5D2}"
+EndProject
+Project("{92823016-8F5E-747C-CB20-5A6123D0E64A}") = "CyberRTS_2D", "Assembly-CSharp-Editor.csproj", "{36E4F7BB-B21B-8E9F-8890-67287A9ACCF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA6C046D-2A87-F79A-0C9D-761E13041BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA6C046D-2A87-F79A-0C9D-761E13041BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA6C046D-2A87-F79A-0C9D-761E13041BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA6C046D-2A87-F79A-0C9D-761E13041BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59AA0D83-5C37-8E8B-CF73-C71A86E9D5D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59AA0D83-5C37-8E8B-CF73-C71A86E9D5D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59AA0D83-5C37-8E8B-CF73-C71A86E9D5D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59AA0D83-5C37-8E8B-CF73-C71A86E9D5D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E4F7BB-B21B-8E9F-8890-67287A9ACCF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E4F7BB-B21B-8E9F-8890-67287A9ACCF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E4F7BB-B21B-8E9F-8890-67287A9ACCF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E4F7BB-B21B-8E9F-8890-67287A9ACCF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
